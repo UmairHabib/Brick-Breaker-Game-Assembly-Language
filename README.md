@@ -1,7 +1,7 @@
 # Brick-Breaker-Game-Assembly-Language
 
 Project Description:
-							Brick Breaker
+
         Design the traditional brick breaker game with at least the following functionalities:
 	A bar that moves left and right only by pressing keys on keyboard. Use left and right keys for bar navigation.
 	A ball that hits the bar and then moves in upward (straight up, left or right) direction and breaks the bricks. (You can replace 	 ball with some other ascii character(s))
